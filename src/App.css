@@ -1,11 +1,18 @@
 *{
   margin:0
 }
-.app_headerImage{
-  object-fit: contain;
+.app{
+  background-color: #fafafa;
+
 }
-.app_headerSearch{
+.app_header{
+  object-fit: contain;
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgrey;
+}
+/* .app_headerSearch{
   display: flex;
   flex-direction: row;
 
-}
+} */
